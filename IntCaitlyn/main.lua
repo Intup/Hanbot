@@ -526,7 +526,7 @@ local function WSpell(spell)
 end
 
 if Caitlyn.charName == "Caitlyn" then 
-    char.print('[Int]' .. 'Welcome Hanbot');
+    chat.print('[Int]' .. 'Welcome Hanbot');
 end 
 
 orb.combat.register_f_pre_tick(OnPreTick)
