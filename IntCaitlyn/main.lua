@@ -525,6 +525,10 @@ local function WSpell(spell)
     end
 end
 
+if Caitlyn.charName == "Caitlyn" then 
+    char.print('[Int]' .. 'Welcome Hanbot');
+end 
+
 orb.combat.register_f_pre_tick(OnPreTick)
 cb.add(cb.draw, OnDraw);
 cb.add(cb.spell, WSpell)
