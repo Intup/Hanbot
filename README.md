@@ -3,7 +3,7 @@ An internal scripting platform.
 
 > These scripts may change or some champions may be added.
 
-# Supported V1.0 
+# Supported AIO V1.0 
   * Brand.
   * Cassiopeia.
   * Corki.
