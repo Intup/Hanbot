@@ -15,7 +15,7 @@ An internal scripting platform.
   * Ryze.
   * Sivir.
   * Teemo.
-  * Tristana.
+  * Tristana. -- **Removed**
 
 **All scripts are based on LeagueSharp codes.**
 > Datebase: https://tool.vlo.vn/auto/index.php?id=1
