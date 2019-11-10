@@ -7,6 +7,8 @@ An internal scripting platform.
   * Brand.
   * Cassiopeia.
   * Corki.
+  * Caitlyn.
+  * Katarina.
   * Kennen.
   * MasterYi.
   * Morgana.
