@@ -3,7 +3,7 @@ An internal scripting platform.
 
 > These scripts may change or some champions may be added.
 
-# Supported AIO V1.1.9
+# Supported AIO V1.2
   * Brand.
   * Cassiopeia.
   * Corki.
@@ -18,6 +18,7 @@ An internal scripting platform.
   * Teemo.
   * Riven.
   * Galio.
+  * Xerath.
 
 **All scripts are based on LeagueSharp codes.**
 > Datebase: https://tool.vlo.vn/auto/index.php?id=1
