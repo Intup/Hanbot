@@ -14,8 +14,10 @@ An internal scripting platform.
   * Morgana.
   * Ryze.
   * Sivir.
+  * Soraka.
   * Teemo.
-  * Tristana. -- **Removed**
+  * Riven.
+  * Galio.
 
 **All scripts are based on LeagueSharp codes.**
 > Datebase: https://tool.vlo.vn/auto/index.php?id=1
