@@ -19,6 +19,7 @@ An internal scripting platform.
   * Riven.
   * Galio.
   * Xerath.
+  * Kha'zix.
 
 **All scripts are based on LeagueSharp codes.**
 > Datebase: https://tool.vlo.vn/auto/index.php?id=1
