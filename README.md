@@ -21,6 +21,8 @@ An internal scripting platform.
   * Xerath.
   * Kha'zix.
   * Kalista (Beta)
+  * Thresh.
+  * Draven.
 
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
