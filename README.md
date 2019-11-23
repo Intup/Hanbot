@@ -23,6 +23,8 @@ An internal scripting platform.
   * Kalista (Beta)
   * Thresh.
   * Draven.
+  * Tristana.
+  * Kog'maw.
 
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
