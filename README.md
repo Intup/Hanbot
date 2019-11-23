@@ -25,6 +25,7 @@ An internal scripting platform.
   * Draven.
   * Tristana.
   * Kog'maw.
+  * Jax.
 
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
