@@ -30,22 +30,3 @@ An internal scripting platform.
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
 **Discord: https://discordapp.com/invite/yjHG7PE**
-
-# IntSupportAIO V1
-
-  * Alistar.
-  * Bard.
-  * Blitz.
-  * Braum.
-  * Janna.
-  * Karma.
-  * Leona.
-  * Lulu.
-  * Nami.
-  * Nautilus.
-  * Pyke.
-  * Rakan.
-  * Soraka.
-  * Taric.
-  * Thresh.
-  * Zilean.
