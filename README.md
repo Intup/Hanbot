@@ -29,4 +29,4 @@ An internal scripting platform.
 
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
-**Discord: https://discordapp.com/invite/yjHG7PE**
+**New Discord: https://discord.gg/euGqU3g**
