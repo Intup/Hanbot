@@ -31,7 +31,7 @@ An internal scripting platform.
 
 **New Discord: https://discord.gg/FZDBSn6**
 
-**Donete :D**
+**Donate :D**
  > Paypal: int0.0clay@gmail.com
 
 ^ **Help me buy a new machine to work with the scripts!** Thanks for the contribution
