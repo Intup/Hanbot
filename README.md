@@ -30,3 +30,11 @@ An internal scripting platform.
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
 **New Discord: https://discord.gg/FZDBSn6**
+
+**Donete :D**
+ > Paypal: int0.0clay@gmail.com
+
+^ **Help me buy a new machine to work with the scripts!** Thanks for the contribution
+
+
+ 
