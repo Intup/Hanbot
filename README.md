@@ -10,6 +10,7 @@ An internal scripting platform.
   * Caitlyn.
   * Katarina.
   * Kennen.
+  * Lucian.
   * MasterYi.
   * Morgana.
   * Ryze.
