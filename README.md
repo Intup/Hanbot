@@ -4,39 +4,42 @@ An internal scripting platform.
 > These scripts may change or some champions may be added.
 
 # Supported AIO 
-  - Brand.
-  - Caitlyn.
-  - Cassiopeia.
-  - Corki.
-  - Draven.
-  - Ezreal.
-  - Galio.
-  - Jax.
-  - Jayce.
-  - Jhin.
-  - Jinx.
-  - Kalista.
-  - Katarina.
-  - Kennen.
-  - Kha'zix.
-  - Kog'maw.
-  - LeBlanc.
-  - Lucian.
-  - Master Yi.
-  - MissFortune.
-  - Morgana.
-  - Nidalee.
-  - Riven.
-  - Ryze.
-  - Sivir.
-  - Soraka.
-  - Teemo.
-  - Thresh.
-  - Tristana.
-  - TwistedFate.
-  - Vayne
-  - Xerath
-  - Ziggs
+   - Brand.
+   - Caitlyn.
+   - Cassiopeia.
+   - Corki.
+   - Draven.
+   - Ezreal.
+   - Fiddlesticks.
+   - Galio.
+   - Jax.
+   - Jayce.
+   - Jhin.
+   - Jinx.
+   - Kalista.
+   - Katarina.
+   - Kennen.
+   - Kha'zix.
+   - Kog'maw.
+   - LeBlanc.
+   - Lucian.
+   - Master Yi.
+   - MissFortune.
+   - Morgana.
+   - Nasus.
+   - Nidalee.
+   - Riven.
+   - Ryze.
+   - Sivir.
+   - Soraka.
+   - Teemo.
+   - Thresh.
+   - Tristana.
+   - TwistedFate.
+   - Udyr.
+   - Vayne.
+   - Xerath.
+   - Ziggs.
 
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
