@@ -12,6 +12,7 @@ An internal scripting platform.
    - Ezreal.
    - Fiddlesticks.
    - Galio.
+   - Heimerdinger.
    - Jax.
    - Jayce.
    - Jhin.
