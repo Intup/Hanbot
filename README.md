@@ -24,6 +24,7 @@ An internal scripting platform.
    - Kog'maw.
    - LeBlanc.
    - Lucian.
+   - Lux.
    - Master Yi.
    - MissFortune.
    - Morgana.
