@@ -4,6 +4,7 @@ An internal scripting platform.
 > These scripts may change or some champions may be added.
 
 # Supported AIO 
+   - Blitzcrank.
    - Brand.
    - Caitlyn.
    - Cassiopeia.
@@ -30,10 +31,12 @@ An internal scripting platform.
    - Morgana.
    - Nasus.
    - Nidalee.
+   - Pyke.
    - Riven.
    - Ryze.
    - Sivir.
    - Soraka.
+   - Sylas.
    - Teemo.
    - Thresh.
    - Tristana.
@@ -41,6 +44,7 @@ An internal scripting platform.
    - Udyr.
    - Vayne.
    - Xerath.
+   - Yasuo.
    - Ziggs.
 
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
