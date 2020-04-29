@@ -43,6 +43,7 @@ An internal scripting platform.
    - TwistedFate.
    - Udyr.
    - Vayne.
+   - Veigar.
    - Xerath.
    - Yasuo.
    - Ziggs.
