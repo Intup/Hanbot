@@ -53,6 +53,7 @@ An internal scripting platform.
 
 **Donate :D**
     BRL: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZWSFZJUU7HL44&source=url
+
     USD: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N7DFCAKY62URG&source=url
 
 ^ **Help me buy a new machine to work with the scripts!** Thanks for the contribution
