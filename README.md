@@ -37,6 +37,7 @@ An internal scripting platform.
    - Sivir.
    - Soraka.
    - Sylas.
+   - Syndra.
    - Teemo.
    - Thresh.
    - Tristana.
