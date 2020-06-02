@@ -1,4 +1,7 @@
-# Internal
+# Internal - Hanbot.
+
+https://hanbot.gg/
+
 An internal scripting platform.
 
 > These scripts may change or some champions may be added.
