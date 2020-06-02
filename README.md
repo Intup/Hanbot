@@ -56,11 +56,15 @@ An internal scripting platform.
 
 **New Discord: https://discord.gg/FZDBSn6**
 
-**Donate :D** USD: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N7DFCAKY62URG&source=url
+**Donate :D** int0.0clay@gmail.com
 
-**Donate :D** EUR: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=265649EDRE7NG&source=url
+# Tutorial - Hanbot.
 
-^ **Help me buy a new machine to work with the scripts!** Thanks for the contribution
+   ![Screenshot_1](https://user-images.githubusercontent.com/54212392/83570253-1b013800-a4fc-11ea-9d23-bd56038abe19.png)
+   ![Screenshot_2](https://user-images.githubusercontent.com/54212392/83570256-1c326500-a4fc-11ea-822f-7d58c8e3a077.png)
+   ![Screenshot_3](https://user-images.githubusercontent.com/54212392/83570258-1ccafb80-a4fc-11ea-9342-6801a8d67cd3.png)
+   ![Screenshot_4](https://user-images.githubusercontent.com/54212392/83570261-1ccafb80-a4fc-11ea-90b4-fbb5e38b45bc.png)
+   ![Screenshot_5](https://user-images.githubusercontent.com/54212392/83570265-1d639200-a4fc-11ea-95fc-6112e3904914.png)
 
 
  
