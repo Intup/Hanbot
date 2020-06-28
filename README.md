@@ -4,59 +4,79 @@ https://hanbot.gg/
 
 An internal scripting platform.
 
-> These scripts may change or some champions may be added.
+> Prediction Premium.
 
-# Supported AIO 
-   - Blitzcrank.
-   - Brand.
-   - Caitlyn.
-   - Cassiopeia.
-   - Corki.
-   - Draven.
-   - Ezreal.
-   - Fiddlesticks.
-   - Galio.
-   - Heimerdinger.
-   - Jax.
-   - Jayce.
-   - Jhin.
-   - Jinx.
-   - Kalista.
-   - Katarina.
-   - Kennen.
-   - Kha'zix.
-   - Kog'maw.
-   - LeBlanc.
-   - Lucian.
-   - Lux.
-   - Master Yi.
-   - MissFortune.
-   - Morgana.
-   - Nasus.
-   - Nidalee.
-   - Pyke.
-   - Riven.
-   - Ryze.
-   - Sivir.
-   - Soraka.
-   - Sylas.
-   - Syndra.
-   - Teemo.
-   - Thresh.
-   - Tristana.
-   - TwistedFate.
-   - Udyr.
-   - Vayne.
-   - Veigar.
-   - Xerath.
-   - Yasuo.
-   - Ziggs.
+> TargetSelector.
+
+> Support BaseUlt for: Ashe, Draven, Ezreal, Jinx and Senna.
+
+> AutoWard.
+
+> Exploit.
+
+# Supported AIO:
+- Ahri.
+- Anivia.
+- Annie.
+- Blitzcrank.
+- Brand.
+- Caitlyn.
+- Cassiopeia.
+- Corki.
+- Draven.
+- Ezreal.
+- Fiddlesticks.
+- Fizz.
+- Galio.
+- Heimerdinger.
+- Jax.
+- Jayce.
+- Jhin.
+- Jinx.
+- Kalista.
+- Karthus.
+- Kassadin.
+- Katarina.
+- Kayle.
+- Kennen.
+- Kha'zix.
+- Kog'Maw.
+- Leblanc.
+- Lissandra.
+- Lucian.
+- Lux.
+- MasterYi.
+- MissFortune.
+- Morgana.
+- Nasus.
+- Nidalee.
+- Poppy.
+- Pyke.
+- Riven.
+- Senna.
+- Shaco.
+- Sivir.
+- Soraka.
+- Sylas.
+- Syndra.
+- Teemo.
+- Thresh.
+- Tristana.
+- Twitch.
+- Udyr.
+- Vayne.
+- Warwick.
+- Xayah.
+- Xerath.
+- Yasuo.
+- Zac.
+- Ziggs.
+
+**Access Discord(IntAIO) or communicate Int#5441**
 
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
 **New Discord: https://discord.gg/FZDBSn6**
-
-**Donate :D** int0.0clay@gmail.com
 
 # Tutorial - Hanbot.
 
