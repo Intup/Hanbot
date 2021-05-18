@@ -1,7 +1,9 @@
 # Internal - Hanbot.
 
 https://hanbot.gg/
+
 Shop: https://auth.jkshop.gg/#/shop
+
 ^~ you require a valid HANBOT subscription in order to use this paid script!
 
 
