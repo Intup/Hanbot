@@ -2,7 +2,7 @@
 
 https://hanbot.gg/
 
-Shop: https://auth.jkshop.gg/#/shop
+Shop: https://intnner.enfront.io/
 
 ^~ you require a valid HANBOT subscription in order to use this paid script!
 
@@ -14,7 +14,7 @@ An internal scripting platform.
 
 **Unfortunately there have been changes in some scripts for improvements and refinement.**
 
-**Access the discord for more information: https://discord.gg/kurVpPG**
+**Access the discord for more information: https://discord.gg/8k2EyhyJ4v**
 
 # Tutorial - Hanbot.
 
